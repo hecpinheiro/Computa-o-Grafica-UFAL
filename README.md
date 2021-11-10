@@ -1,1 +1,1 @@
-# Computa-o-Grafica-UFAL
+# Computacao-Grafica-UFAL
